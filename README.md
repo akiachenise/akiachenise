@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @akiachenise
-- 👀 I’m interested in FrontEnd Development, focusing on accessibility
+- 👀 I’m a Front End Software Developer focusing on Web Development and Accessibility 
 - 🌱 I’m currently learning JavaScript and Python
-- 💞️ I’m looking to collaborate on projects that iwll help me grow my skillset
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate on projects that will help me grow my skillset
+
 
 <!---
 akiachenise/akiachenise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
