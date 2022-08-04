@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akiachenise
 - 👀 I’m a Front End Software Developer focusing on Web Development and Accessibility 
-- 🌱 I’m currently learning JavaScript and Python
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on projects that will help me grow my skillset
 
 
